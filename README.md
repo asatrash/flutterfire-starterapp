@@ -1,10 +1,10 @@
 # starterapp
 
-A new Flutter project.
+Fluuter web app with basic firebase connectivity
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter/Firebase web application.
 
 A few resources to get you started if this is your first Flutter project:
 
